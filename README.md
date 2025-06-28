@@ -250,6 +250,8 @@ More specific to ZK:
 - [zCloak: Privacy-first DID and verifiable computation infrastructure](https://zcloak.network/#/)
 - [Everest ID: Your global everything account](https://everest.org/)
 - [Proof of Passport: Privacy Preserving Passport Proving](https://github.com/zk-passport/proof-of-passport)
+- [prove_threshold_policy](https://github.com/cypriansakwa/prove_threshold_policy) - Noir circuit to prove that a private input satisfies a public threshold without revealing the secret. Useful for wallet recovery, access control, and eligibility proofs.
+
 
 #### Wallet
 
